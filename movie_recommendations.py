@@ -1,10 +1,3 @@
-"""
-Name: movie_recommendations.py
-Date: 3/31
-Author:  Penny Herrera and Ashley Xu
-Description: 
-"""
-
 import math
 import csv
 from scipy.stats import pearsonr
